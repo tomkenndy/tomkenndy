@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomkenndy&label=Profile%20views&color=0e75b6&style=flat" alt="tomkenndy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tomkenn61016326" target="blank"><img src="https://img.shields.io/twitter/follow/@tomkenn61016326?logo=twitter&style=for-the-badge" alt="@tomkenn61016326" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@tomkenn61016326" target="blank"><img src="https://img.shields.io/twitter/follow/CassoLee?logo=twitter&style=for-the-badge" alt="CassoLee" /></a> </p>
 
-- 🔭 I’m currently working on **Mall Application**
+- 🔭 I’m currently working on **a Mall Application**
 
 - 🌱 I’m currently learning **Sanity**
 
