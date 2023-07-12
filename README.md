@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomkenndy&label=Profile%20views&color=0e75b6&style=flat" alt="tomkenndy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tomkenn61016326" target="blank"><img src="https://img.shields.io/twitter/follow/CassoLee?logo=twitter&style=for-the-badge" alt="CassoLee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@tomkenn61016326" target="_blank"><img src="https://img.shields.io/twitter/follow/CassoLee?logo=twitter&style=for-the-badge" alt="CassoLee" /></a> </p>
 
 - 🔭 I’m currently working on **a Mall Application**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tomkenn61016326" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomkenn61016326" height="30" width="40" /></a>
-<a href="https://instagram.com/fullstack_developer_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kodak_blakk" height="30" width="40" /></a>
+<a href="https://instagram.com/fullstack_developer_ke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kodak_blakk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
