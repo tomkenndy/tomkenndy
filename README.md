@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tomkenn61016326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomkenn61016326" height="30" width="40" /></a>
-<a href="https://instagram.com/_kodak_blakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kodak_blakk" height="30" width="40" /></a>
+<a href="https://instagram.com/fullstack_developer_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kodak_blakk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
